@@ -8,7 +8,7 @@
 }
 
 nav{
-    background-color: yellow;
+    background-color: rgb(245, 213, 30);
     height: 10vh;
     padding: 20px 5px;
     text-align: center;
@@ -31,7 +31,7 @@ textarea{
 }
 
 #btn-translate{
-    background-color: yellow;
+    background-color: rgb(245, 213, 30);
     font-size: 25px;
     padding: 10px 40px;
     margin: 1rem 0rem;
@@ -51,7 +51,7 @@ textarea{
 }
 
 footer{
-    background-color: yellow;
+    background-color: rgb(245, 213, 30);
     position: fixed;
     bottom: 0;
     width: 100%;
